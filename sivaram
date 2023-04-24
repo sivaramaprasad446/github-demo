@@ -1,3 +1,6 @@
 create github account
 create repo on github
 go to local repo on workstation
+checkwheather remote repo added or not
+add remote repo to local repo
+push local changes to remote
